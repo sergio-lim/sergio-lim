@@ -1,5 +1,7 @@
 # Hi, I'm Sergio Lim
 
+![Sergio Lim — AI agents, automation, Flutter/Python](assets/banner.png)
+
 **Flutter/Dart · Python · AI agents & automation**
 
 I build software end to end and I ship it. Lately my focus is **AI agents and automation**: decision layers, long-term memory, and pipelines that run on their own and report back.
